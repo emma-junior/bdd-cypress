@@ -1,0 +1,16 @@
+{
+  "viewportWidth": 1280,
+  "viewportHeight": 800,
+  "retries": {
+    "runMode": 2,
+    "openMode": 1
+  },
+  "defaultCommandTimeout": 60000,
+
+  "testFiles": "**/*.feature",
+  "baseUrl": "https://stage.squad.kobo360.com/",
+  "env": {
+    "email": "qatest@yopmail.com",
+    "password": "1Password@"
+  }
+}
